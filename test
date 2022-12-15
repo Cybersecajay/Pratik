@@ -1,0 +1,18 @@
+POST /siteminderagent/forms/b2clogin.fcc HTTP/2
+Host: sso.extra.chrysler.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 457
+Origin: null
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: cross-site
+Sec-Fetch-User: ?1
+Te: trailers
+Connection: close
+
+USER=ajay.pandit.cs%40ghrcem.raisoni.net&PASSWORD=0&pf.ok=&pf.cancel=&target=https%3A%2F%2Fsso.extra.chrysler.com%2Fcgi-bin%2FDUCProdredirect.cgi%3Fenv%3Dprd%26PartnerSpId%3DDriveUconnect%26ACSIdx%3D1%26IdpAdapterId%3DB2CSM%26appID%3DEMEAFIATDUC%26language%3Dit%26TargetResource%3Dhttps%3A%2F%2Fwww.driveuconnect.eu%2Flogin_From_Ping_Federated%3Flang%3Dit&op=Entra&form_build_id=form-rDpYutrDkXF5PH2zMUnM-5JJVSOw5w-kIhPX7eD7RTY&form_id=login_saml_login_form
